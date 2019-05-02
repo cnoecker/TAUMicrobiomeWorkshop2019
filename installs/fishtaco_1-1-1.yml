@@ -1,0 +1,17 @@
+name: fishtaco
+channels:
+  - defaults
+dependencies:
+  - numpy=1.11.3
+  - numpy-base=1.11.3
+  - pandas=0.23.4
+  - pip=19.1
+  - python=2.7.16
+  - readline=7.0
+  - scikit-learn=0.17.1
+  - scipy=1.2.1
+  - statsmodels=0.9.0
+  - pip:
+    - fishtaco==1.1.1
+    - musicc==1.0.2
+
